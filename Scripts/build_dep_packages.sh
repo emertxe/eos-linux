@@ -31,11 +31,9 @@ sudo apt install --assume-yes python # (version 2.7 or any later)
 # * Configuration interface dependencies:
 sudo apt install --assume-yes libncurses5-dev # ncurses5 to use the menuconfig interface
 # * Source fetching tools:
-sudo apt install --assume-yes bazaar
 sudo apt install --assume-yes cvs
 sudo apt install --assume-yes git
 sudo apt install --assume-yes mercurial
-sudo apt install --assume-yes scp
 sudo apt install --assume-yes subversion
 
 # Some extra required packages
